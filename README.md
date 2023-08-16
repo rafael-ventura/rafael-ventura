@@ -1,13 +1,3 @@
-### Hi there, i'm Rafael
-
-
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-ventura)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&langs_count=6&hide=java)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Rafael Cantanhede Ventura Siqueira
 
 - 📍 **Location:** Rio de Janeiro, Brazil
@@ -94,3 +84,11 @@ With over four years of experience as a Software Developer, I have honed my skil
 - Matplotlib
 - JSON
 - XML
+
+
+
+[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-ventura)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&langs_count=6&hide=java)](https://github.com/anuraghazra/github-readme-stats)
