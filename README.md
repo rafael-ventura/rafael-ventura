@@ -48,15 +48,6 @@ Having worked as a Web Systems Developer for over four years, I have gained expe
   - Created and maintained Stored Procedures using SQL Server/T-SQL.
   - Managed and maintained the company's database model.
 
-### Data Engineer Intern (SQL, Pentaho, Jenkins)
-
-- **Company:** OWSE Informatica
-- **Duration:** 09/2018 – 01/2019
-- **Responsibilities:** 
-  - Developed and maintained Jenkins pipelines.
-  - Developed ETL processes to integrate data from different sources using Pentaho.
-  - Aggregated information in tables and data warehouses for dashboard consumption.
-
 ---
 
 ## Education
@@ -92,6 +83,7 @@ Having worked as a Web Systems Developer for over four years, I have gained expe
 - **Extracurricular Project at UNIRIO:** Participated in the development of the CaronaE website for UNIRIO (2018)
 - **Vice President:** Center of Information Systems ate University (2018.1 - 2018.2)
 - **President:** Center of Information Systems ate University (2018.1 - 2018.2)
+- **Scientific Research: ** Development an extension for Visual Studio Code
 
 ---
 
@@ -100,10 +92,15 @@ Having worked as a Web Systems Developer for over four years, I have gained expe
 - **Spotify React App:** Displays a user's most listened to artists and songs on Spotify.
 - **Vue Pokedex App:** Displays and filters Pokémon from the Pokémon API.
 - **Dashboard App:** A Python application that presents information and graphics about the students of the BSI course.
+- **Cumes Brasil:** Pesquisa Boy!
 
-
-[![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-ventura)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&langs_count=6&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+---
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&hide=python,cython" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-ventura" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-ventura&repo=cume-brasil" />
+</a>
