@@ -33,5 +33,14 @@ Backend-focused software engineer specializing in .NET/C#, microservices, and ev
   <img src="https://streak-stats.demolab.com/?user=rafael-ventura&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+## Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafael-ventura/rafael-ventura/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafael-ventura/rafael-ventura/output/github-contribution-grid-snake.svg" />
+    <img alt="Rafael's contribution snake" src="https://raw.githubusercontent.com/rafael-ventura/rafael-ventura/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## Contact
 📧 [raf4ael@gmail.com](mailto:raf4ael@gmail.com) · [LinkedIn](https://linkedin.com/in/raf4ael-ventura)
