@@ -24,22 +24,13 @@ Backend-focused software engineer specializing in .NET/C#, microservices, and ev
 ## Background
 5+ years shipping production systems in fintech (instant payments, FedNow/ISO 20022) and logistics (multi-tenant TMS, real-time GPS tracking for 5,000+ concurrent shipments per client). Currently at Nstech, previously at iUUL, JJ4Tech, Sinqia, and Itaú Unibanco.
 
-## A few projects here
-- **[cumes-brasil](https://github.com/rafael-ventura/cumes-brasil)** — a full-stack rock-climbing catalog for Brazil (Vue, Node, PostgreSQL) I've maintained for years, with CI/CD, an offline PWA, and admin RBAC.
-- **[dracma](https://github.com/rafael-ventura/dracma)** — a double-entry accounting ledger with idempotency and a redacted audit trail, built on .NET 10 Aspire, MassTransit, and the outbox/saga pattern.
-- **[guilda-mensageria-microservices](https://github.com/rafael-ventura/guilda-mensageria-microservices)** — a messaging-architecture showcase: hexagonal architecture, CQRS, and the Outbox/Saga patterns across four .NET microservices.
-- **[node-challenge](https://github.com/rafael-ventura/node-challenge)** — a take-home backend challenge solved with Clean Architecture and full test coverage.
-
 ## GitHub stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafael-ventura&show_icons=true&count_private=true&theme=tokyonight" alt="Rafael's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&hide=python,cython&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-ventura&theme=tokyonight" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafael-ventura&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com/?user=rafael-ventura&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ## Contact
