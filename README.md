@@ -22,7 +22,7 @@ Backend-focused software engineer specializing in .NET/C#, microservices, and ev
 - Use AI-assisted development day to day (Claude Code, MCP, custom agents) to speed up refactors, reviews, and test generation
 
 ## Background
-5+ years shipping production systems in fintech (instant payments, FedNow/ISO 20022) and logistics (multi-tenant TMS, real-time GPS tracking for 5,000+ concurrent shipments per client). Currently at Nstech, previously at iUUL, JJ4Tech, Sinqia, and Itaú Unibanco.
+5+ years across fintech (instant payments integrated with the Federal Reserve, ISO 20022) and logistics (fleet and cargo tracking). Currently at Nstech, previously at iUUL, JJ4Tech, Sinqia, and Itaú Unibanco.
 
 ## GitHub stats
 <p align="center">
