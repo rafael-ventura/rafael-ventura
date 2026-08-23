@@ -26,8 +26,8 @@ Backend-focused software engineer specializing in .NET/C#, microservices, and ev
 
 ## GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafael-ventura&show_icons=true&count_private=true&theme=tokyonight" alt="Rafael's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&hide=python,cython&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rafael-ventura&show_icons=true&count_private=true&theme=tokyonight" alt="Rafael's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafael-ventura&layout=compact&hide=python,cython&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafael-ventura&theme=tokyonight" alt="GitHub streak" />
